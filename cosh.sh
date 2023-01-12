@@ -23,6 +23,6 @@ case "$answer" in
 4) uname -r ;;
 5) command apt list;;
 6) sudo nvidia-xconfig ;; 
-7) echo "CommanderSH 2021-2023 By Eggplant48 v00.2.0 ______________________" ;;
+7) echo "CommanderSH 2021-2023 By Eggplant48 v0.1 ______________________" ;;
 0) exit ;;
 esac
